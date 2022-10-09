@@ -1,16 +1,5 @@
 # magic_eight_ball
 
-A new Flutter project.
+This is a flutter application that simulates the behaviour of a magic 8 ball
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+After the opening of the application on each tap the message displayed by the magicball changes to a different message. The choice of the message to be displayed by the ball is decided by the application randomly. 
